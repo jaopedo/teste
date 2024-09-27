@@ -2,8 +2,19 @@ body{
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(90deg, #000000 0%, #fae100 100%);
+    display: flex;
+    justify-content: center;
+    align, inten: center;
 
 
 
+}
 
+
+.tela{
+     background-color: #fafafa;
+    borde-radius: 10px;
+    box-shadow: 2px, 5px, rgb (
+
+    
 }

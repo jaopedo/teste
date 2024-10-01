@@ -4,7 +4,7 @@ body{
     background: linear-gradient(90deg, #000000 0%, #fae100 100%);
     display: flex;
     justify-content: center;
-    align, inten: center;
+    align-items: center;
 
 
 
@@ -12,9 +12,14 @@ body{
 
 
 .tela{
-     background-color: #fafafa;
-    borde-radius: 10px;
-    box-shadow: 2px, 5px, rgb (
+    background-color: #fafafa;
+    border-radius: 10px;
+    box-shadow: 2px, 5px, rgb(224, 248, 0);
+    width: 400px;
+    max-width: 100%;
+    overflow: hidden;
+    padding: 20px;
+
 
     
 }
